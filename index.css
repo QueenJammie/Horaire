@@ -1,0 +1,132 @@
+tr table.listCours
+{
+  color: yellow;
+}
+header
+{
+  text-align: center;
+  padding-top: 1em;
+}
+header img
+{
+  margin-right: 50%;
+  margin-bottom: 2em;
+}
+h5
+{
+  text-align: center;
+  color: #25517C;
+}
+h5.name
+{
+  text-align: left;
+}
+h6
+{
+  color: #2551A6;
+}
+a
+{
+  text-decoration: none;
+}
+table
+{
+  margin: 0 auto;
+}
+th, td
+{
+  padding: 1em;
+}
+.menu
+{
+  box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+  padding-bottom: 10px;
+}
+h5 .menu
+{
+  color: #777676;
+
+}
+a .menu
+{
+  color: #656565 !important;
+  text-decoration: none;
+}
+.menu img
+{
+  width: 45px;
+}
+.link
+{
+  text-decoration: none;
+}
+.backToSession
+{
+  color: #000;
+  font-weight: 700;
+}
+.backToSession:hover
+{
+  color: red;
+
+}
+.omnivox
+{
+  color: #0169B0;
+  font-size: 40px;
+  font-weight: 500;
+  vertical-align: middle;
+}
+.omnivox:hover
+{
+  background-color: #E8E8E8;
+}
+.bold
+{
+  font-weight: bold;
+}
+.top
+{
+  vertical-align: top;
+}
+.bottom
+{
+  vertical-align: bottom;
+}
+.cours 
+{
+  border: 1px solid #000;
+}
+.empty
+{
+  background-color: #EBEBEB;
+  border: 1px solid #D3D3D3;
+}
+.afficher
+{
+  margin-left: 13em; 
+}
+.date
+{
+  border: 1px solid #D3D3D3;
+  text-align: center;
+  margin: 0 auto;
+}
+.petitsPoints
+{
+  position: relative;
+  bottom: 4px;
+  color: #9F9F9F;
+}
+.prof
+{
+  color: #0B5DD5;
+}
+.value
+{
+  margin-right: 1em;
+}
+h5.horaire
+{
+  color: #52A6FF;
+}
